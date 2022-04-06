@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "TodoGraphQL",
-    "slug": "learn-react-native",
-    "description": "A React Native Todo app with GraphQL",
+    "name": "React-Native-GraphQL-Demo",
+    "slug": "learn-react-native-graphql",
+    "description": "React Native Application developed using expo. Connects to the hasura backend using apollo. Concepts covered are queries, mutations, update mutations and automatic cache updates, remove mutaions, subscriptions, realtime feed.",
     "privacy": "public",
     "platforms": [
       "ios",

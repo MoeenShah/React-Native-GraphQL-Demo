@@ -91,10 +91,10 @@ export default class Auth extends React.Component {
       return (
         <View style={styles.titleContainer}>
           <View className={styles.logoWrapper}>
-            <Image
-              source={require('../images/hasura_logo_horizontal_blue.png')}
+            {/* <Image
+              source={require('../images/.png')}
               style={styles.logo}
-            />
+            /> */}
           </View>
           <View style={styles.titleTextWrapper}>
             <Text style={styles.title}>React Native Todo App with GraphQL</Text>
