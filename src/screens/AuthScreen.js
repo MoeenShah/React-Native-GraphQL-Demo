@@ -22,7 +22,7 @@ export default class Auth extends React.Component {
     isLoggedIn: false,
     tabIndex: 0,
     loginProps: {
-      email: '',
+      email: 'moeenshah54@gmail.com',
       password: ''
     },
     isKeyboardOpen: false
